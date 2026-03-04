@@ -21,3 +21,13 @@ UART - Example code for UART communication
 Sensor communication  
 Device interfacing  
 Embedded system communication
+## Communication Protocols
+
+### SPI Protocol
+![SPI](images/spi_diagram.png)
+
+### I2C Protocol
+![I2C](images/i2c_diagram.png)
+
+### UART Protocol
+![UART](images/uart_diagram.png)
