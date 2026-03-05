@@ -158,12 +158,6 @@ These protocols are commonly used in:
 
 ---
 
-# 📸 Protocol Diagrams
-
-(Add your uploaded protocol images here)
-
----
-
 # 👨‍💻 Author
 
 **Lal John Basha**
